@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on えいりはすのブログ</title>
-        <link>http://example.org/post/</link>
+        <link>https://ssk0206.github.io/blog/post/</link>
         <description>Recent content in Posts on えいりはすのブログ</description>
         <generator>Hugo -- gohugo.io</generator>
-        <lastBuildDate>Mon, 07 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 07 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ssk0206.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Java Gold 対策勉強</title>
-        <link>http://example.org/post/java-gold-9/</link>
-        <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+        <link>https://ssk0206.github.io/blog/post/java-gold-9/</link>
+        <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://example.org/post/java-gold-9/</guid>
+        <guid>https://ssk0206.github.io/blog/post/java-gold-9/</guid>
         <description>&lt;p&gt;第９章は『例外とアサーション』ですね。これは実務でもなんとなくで書いてしまっているので念入りにやりたいです。&lt;/p&gt;
 &lt;p&gt;まずは、マルチキャッチについて。マルチキャッチを使うことで、コード量が劇的に減ります。&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;try&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;{&lt;/span&gt;
@@ -75,10 +75,10 @@
         </item>
         <item>
         <title>Java Gold 対策勉強</title>
-        <link>http://example.org/post/java-gold-10/</link>
-        <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+        <link>https://ssk0206.github.io/blog/post/java-gold-10/</link>
+        <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://example.org/post/java-gold-10/</guid>
+        <guid>https://ssk0206.github.io/blog/post/java-gold-10/</guid>
         <description>&lt;h2 id=&#34;ロケール情報&#34;&gt;ロケール情報&lt;/h2&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Locale locale &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; Locale&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;getDefault&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;();&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Locale(String language)
@@ -88,10 +88,10 @@ Locale(String language, String country, String variant)
         </item>
         <item>
         <title>Java Gold 対策勉強</title>
-        <link>http://example.org/post/hello-world/</link>
+        <link>https://ssk0206.github.io/blog/post/hello-world/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://example.org/post/hello-world/</guid>
+        <guid>https://ssk0206.github.io/blog/post/hello-world/</guid>
         <description>&lt;h2 id=&#34;アノテーションの定義&#34;&gt;アノテーションの定義&lt;/h2&gt;
 &lt;p&gt;マーカーインターフェースとは、以下のコードのように何も持たず、クラスに意味を追加することだけを目的としたインタフェースのことです。&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;interface&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Sample&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;{}&lt;/span&gt;

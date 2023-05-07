@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+# baseURL = 'https://ssk0206.github.io/blog/'
 # languageCode = 'en-us'
 DefaultContentLanguage = "ja"
 title = 'えいりはすのブログ'

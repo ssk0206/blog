@@ -2,14 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on えいりはすのブログ</title>
-        <link>http://example.org/page/</link>
+        <link>https://ssk0206.github.io/blog/page/</link>
         <description>Recent content in Pages on えいりはすのブログ</description>
-        <generator>Hugo -- gohugo.io</generator><atom:link href="http://example.org/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator>
+        <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ssk0206.github.io/blog/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Archives</title>
+        <link>https://ssk0206.github.io/blog/page/archives/</link>
+        <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://ssk0206.github.io/blog/page/archives/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Search</title>
-        <link>http://example.org/page/search/</link>
+        <link>https://ssk0206.github.io/blog/page/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://example.org/page/search/</guid>
+        <guid>https://ssk0206.github.io/blog/page/search/</guid>
         <description></description>
         </item>
         
