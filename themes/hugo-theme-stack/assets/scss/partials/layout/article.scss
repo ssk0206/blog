@@ -13,21 +13,6 @@
         box-shadow: var(--shadow-l1);
         overflow: hidden;
 
-        h2 {
-            font-size: 2.2rem;
-        }
-
-        h3 {
-            font-size: 1.8rem;
-        }
-
-        p {
-            font-size: 1.4rem;
-        }
-
-        .highlight {
-            font-size: 1.3rem;
-        }
 
         .article-header {
             .article-image {
@@ -40,8 +25,11 @@
             }
 
             .article-details {
-                h3 {
-                    font-size: 1.4rem;
+                svg {
+                    width: 1.4rem;
+                }
+                .article-time--published {
+                    font-size: 1.2rem;
                 }
 
                 padding: var(--card-padding);
@@ -52,6 +40,22 @@
         .article-content {
             margin: var(--card-padding) 0;
             color: var(--card-text-color-main);
+
+            h2 {
+                font-size: 2rem;
+            }
+
+            h3 {
+                font-size: 1.8rem;
+            }
+
+            p {
+                font-size: 1.4rem;
+            }
+
+            .highlight {
+                font-size: 1.3rem;
+            }
 
             li {
                 font-size: 1.4rem;
@@ -281,6 +285,7 @@
     }
 
     code {
+        font-size: 1.2rem;
         color: var(--code-text-color);
         background-color: var(--code-background-color);
         padding: 2px 4px;

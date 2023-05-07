@@ -8,10 +8,6 @@ theme = "hugo-theme-stack"
 # [[module.imports]]
 # path = "github.com/CaiJimmy/hugo-theme-stack/v3"
 
-
-
-
-
 [author]
     name = "Azu Arihas"
     bio = "新人エンジニア"

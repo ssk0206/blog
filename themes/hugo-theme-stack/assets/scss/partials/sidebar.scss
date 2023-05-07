@@ -2,6 +2,7 @@
     &.sticky {
         @include respond(md) {
             position: sticky;
+            // width: fit-content;
         }
     }
 }

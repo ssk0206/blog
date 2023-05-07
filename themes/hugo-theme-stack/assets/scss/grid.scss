@@ -10,6 +10,7 @@
     .right-sidebar {
         order: -1;
         max-width: var(--right-sidebar-max-width);
+        font-size: 1.4rem;
 
         /// Display right sidebar when min-width: lg
         @include respond(lg) {
@@ -94,7 +95,7 @@ main.main {
     padding: 0 15px;
     gap: var(--section-separation);
     padding-top: var(--main-top-padding);
-    
+
     @include respond(md) {
         padding: 0 20px;
     }
