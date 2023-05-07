@@ -147,15 +147,15 @@
         font-size: 1.4rem;
 
         @include respond(2xl) {
-            font-size: 1.6rem;
+            font-size: 1.2rem;
         }
     }
 }
 
 [data-scheme="dark"] {
     #dark-mode-toggle {
-        color: var(--accent-color);
-        font-weight: 700;
+        // color: var(--accent-color);
+        // font-weight: 700;
 
         .icon-tabler-toggle-left {
             display: none;

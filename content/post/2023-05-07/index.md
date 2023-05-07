@@ -2,7 +2,7 @@
 title: Java Gold 対策勉強
 description: 黒本第９章『例外とアサーション』
 slug: java-gold-9
-date: 2022-03-07 00:00:00+0000
+date: 2023-03-07 00:00:00+0000
 categories:
     - プログラミング
 tags:
