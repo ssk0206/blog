@@ -17,8 +17,8 @@ subtitle = "新人エンジニアの雑記ブログ"
 
 [sidebar.avatar]
 enabled = true
-local = true
-src = "img/avatar.png"
+local = false
+src = "img/avatar.jpg"
 
 [article]
 math = true

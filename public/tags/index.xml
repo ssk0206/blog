@@ -5,12 +5,28 @@
         <link>http://example.org/tags/</link>
         <description>Recent content in Tags on えいりはすのブログ</description>
         <generator>Hugo -- gohugo.io</generator>
-        <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 07 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Java</title>
+        <link>http://example.org/tags/java/</link>
+        <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://example.org/tags/java/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>JavaGold</title>
         <link>http://example.org/tags/javagold/</link>
-        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
         
         <guid>http://example.org/tags/javagold/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>資格</title>
+        <link>http://example.org/tags/%E8%B3%87%E6%A0%BC/</link>
+        <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://example.org/tags/%E8%B3%87%E6%A0%BC/</guid>
         <description></description>
         </item>
         
