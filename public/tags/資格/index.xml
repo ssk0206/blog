@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>資格 on えいりはすのブログ</title>
-        <link>https://ssk0206.github.io/blog/tags/%E8%B3%87%E6%A0%BC/</link>
+        <link>/tags/%E8%B3%87%E6%A0%BC/</link>
         <description>Recent content in 資格 on えいりはすのブログ</description>
         <generator>Hugo -- gohugo.io</generator>
-        <lastBuildDate>Tue, 07 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ssk0206.github.io/blog/tags/%E8%B3%87%E6%A0%BC/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 07 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/%E8%B3%87%E6%A0%BC/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Java Gold 対策勉強</title>
-        <link>https://ssk0206.github.io/blog/post/java-gold-9/</link>
+        <link>/post/java-gold-9/</link>
         <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://ssk0206.github.io/blog/post/java-gold-9/</guid>
+        <guid>/post/java-gold-9/</guid>
         <description>&lt;p&gt;第９章は『例外とアサーション』ですね。これは実務でもなんとなくで書いてしまっているので念入りにやりたいです。&lt;/p&gt;
 &lt;p&gt;まずは、マルチキャッチについて。マルチキャッチを使うことで、コード量が劇的に減ります。&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;try&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;{&lt;/span&gt;
@@ -75,10 +75,10 @@
         </item>
         <item>
         <title>Java Gold 対策勉強</title>
-        <link>https://ssk0206.github.io/blog/post/java-gold-10/</link>
+        <link>/post/java-gold-10/</link>
         <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://ssk0206.github.io/blog/post/java-gold-10/</guid>
+        <guid>/post/java-gold-10/</guid>
         <description>&lt;h2 id=&#34;ロケール情報&#34;&gt;ロケール情報&lt;/h2&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Locale locale &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; Locale&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;getDefault&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;();&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Locale(String language)
